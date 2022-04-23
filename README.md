@@ -44,7 +44,7 @@ Montar um aplicação que tenha Front e o Back simples, para praticar os conceit
 Antes de começar, você vai precisar ter instalado em sua máquina o
 [Git](https://git-scm.com) e o [NodeJS](https://nodejs.org/en/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-
+💡O Frontend necessita que o Backend esteja sendo executado para funcionar.
 
 ### 🎲 Rodando o Front
 
@@ -83,14 +83,15 @@ $ npm run start
 
 <h1 id="tecnologias">🛠 Tecnologias</h1>
 
-As seguintes ferramentas foram usadas na construção do projeto:
-
-
+### Front-end:
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled-components](https://styled-components.com/docs)
-- [Node](https://nodejs.org/en/)
 - [Axios](https://github.com/axios/axios)
+### Back-end:
+- [NodeJS](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [CORS](https://expressjs.com/en/resources/middleware/cors.html)
 
 <h1 id="autor">Autor</h1>
 
