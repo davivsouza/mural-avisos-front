@@ -90,8 +90,10 @@ $ npm run dev
 - [Axios](https://github.com/axios/axios)
 ### Back-end:
 - [NodeJS](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ts-node-dev](https://www.npmjs.com/package/ts-node-dev)
 - [Express](https://expressjs.com/)
-- [CORS](https://expressjs.com/en/resources/middleware/cors.html)
+- [Cors](https://expressjs.com/en/resources/middleware/cors.html)
 
 <h1 id="autor">Autor</h1>
 
